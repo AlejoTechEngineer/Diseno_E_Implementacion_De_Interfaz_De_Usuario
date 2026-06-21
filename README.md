@@ -24,20 +24,6 @@ Proyecto de diseño e implementación de GUI para el módulo **PedidoMedicamento
 | `Diseño E Implementación*.pdf` | Informe completo del diseño |
 | `Desarrollo De Proyecto*.pdf` | Documentación del proyecto |
 
-## Principios de diseño aplicados
-
-- Análisis de tareas y definición de flujos de usuario
-- Diseño de estructura de ventanas (Window Structure Diagram)
-- Consistencia visual y uso de patrones de interfaz estándar
-- Retroalimentación visual al usuario en cada operación
-
-## Contexto académico
-
-**Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
-**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
-
----
-
 ## Arquitectura
 
 ```mermaid
@@ -54,6 +40,20 @@ flowchart TD
     J -- No --> E
     J -- Si --> K[Pedido registrado y confirmado]
 ```
+
+## Principios de diseño aplicados
+
+- Análisis de tareas y definición de flujos de usuario
+- Diseño de estructura de ventanas (Window Structure Diagram)
+- Consistencia visual y uso de patrones de interfaz estándar
+- Retroalimentación visual al usuario en cada operación
+
+## Contexto académico
+
+**Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
+**Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
 
 ## Autor
 

@@ -38,6 +38,23 @@ Proyecto de diseño e implementación de GUI para el módulo **PedidoMedicamento
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Analisis de usuarios y tareas] --> B[Definicion de flujos de interaccion]
+    B --> C[Diagrama de estructura de ventana - DOCX/PDF]
+    C --> D[Prototipo de UI - PedidoMedicamentos/]
+    D --> E{Operacion del usuario}
+    E --> F[Seleccionar medicamento]
+    E --> G[Ingresar cantidad]
+    E --> H[Confirmar pedido]
+    F & G & H --> I[Retroalimentacion visual al usuario]
+    I --> J{Pedido valido?}
+    J -- No --> E
+    J -- Si --> K[Pedido registrado y confirmado]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  

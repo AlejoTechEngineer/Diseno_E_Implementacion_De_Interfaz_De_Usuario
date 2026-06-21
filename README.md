@@ -1,3 +1,5 @@
+<div align="center">
+
 # Diseño e Implementación de Interfaz de Usuario — PedidoMedicamentos
 
 ![HCI](https://img.shields.io/badge/HCI-UI%20Design-6A0DAD?style=for-the-badge)
@@ -6,6 +8,10 @@
 > Diseño e implementación de interfaz gráfica de usuario para un sistema de pedido de medicamentos.
 
 ## Descripción
+
+</div>
+
+---
 
 Proyecto de diseño e implementación de GUI para el módulo **PedidoMedicamentos** de un sistema de salud. Se aplican principios de **HCI (Human-Computer Interaction)**: análisis de usuarios, definición de flujos de interacción, diseño de estructura de ventanas, prototipado y desarrollo de la interfaz funcional.
 
@@ -29,3 +35,12 @@ Proyecto de diseño e implementación de GUI para el módulo **PedidoMedicamento
 
 **Asignatura:** Interacción Persona-Ordenador · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista Ingeniería de Software
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
